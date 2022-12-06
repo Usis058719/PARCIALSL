@@ -3,11 +3,11 @@ action="pagina2.php" >
 Por favor, envía la newsletter a: <br 
 />
 Tu nombre: <input type="text" 
-name="Nelson" /><br />
+name="nombre" /><br />
 Tu apellido: <input type="text" 
-name="Serrano" /><br />
+name="apellido" /><br />
 Tu correo electrónico: <input 
-type="text" name="serranonelson24@gmail.com" /><br />
+type="text" name="email" /><br />
 <input type="submit" value="Enviar 
 formulario" />
 </form>
